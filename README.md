@@ -1,6 +1,8 @@
 # SI699 Tutorial: Bias Analysis Using Word Embeddings
 
-This tutorial is designed to help walk you through a series of analyses of biases present in word embeddings, focusing on different dimensions such as occupation, ethnicity, gender, and other stereotypes. You will explore the Gensim and word2vec libraries, and perform analyses using precomputed vectors to see how similar words are with one another to measure how public perceptions of different groups have changed over time. This tutorial is based on the paper "Word embeddings quantify 100 years of gender and ethnic stereotypes," by Nikhil Garga, Londa Schiebingerb, Dan Jurafskyc, and James Zoue, but uses a different dataset that is pulled from Cornell University's movie dialog corpus. After completing the tutorial, you will have a basic understanding of how word embeddings and vectors work, along with how they can be used in a practical setting in the social sciences.
+This tutorial is designed to help walk you through a series of analyses of biases present in word embeddings, focusing on different dimensions such as occupation, ethnicity, gender, and other stereotypes. You will explore the Gensim and word2vec libraries, and perform analyses using precomputed vectors to see how similar words are with one another to measure how public perceptions of different groups have changed over time. 
+
+This tutorial is based on the paper "Word embeddings quantify 100 years of gender and ethnic stereotypes," by Nikhil Garga, Londa Schiebingerb, Dan Jurafskyc, and James Zoue, but uses a different dataset that is pulled from Cornell University's movie dialog corpus. After completing the tutorial, you will have a basic understanding of how word embeddings and vectors work, along with how they can be used in a practical setting in the social sciences.
 
 ## How to Use:
 
