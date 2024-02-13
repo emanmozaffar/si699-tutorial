@@ -21,17 +21,18 @@ This tutorial is based on the paper "Word embeddings quantify 100 years of gende
 
 3. **Open Notebook**:
     - Navigate to the cloned repository directory.
-    - Open the `bias-analysis.ipynb` notebook using Jupyter Notebook or JupyterLab.
+    - Open the `follow-along.ipynb` notebook using Jupyter Notebook or JupyterLab.
 
 4. **Run the Notebook**:
     - Execute each cell in the notebook sequentially to perform the analyses.
     - Follow the instructions provided in the notebook for each analysis section.
+    - Find every `TODO` comment (there are 10 total) and try your hand at finishing them. `solution.ipynb` has all of the completed code, in case you get stuck at any point along the way.
 
 ## What to Expect:
 
-- The notebook `bias-analysis.ipynb` contains several sections, each focusing on a different aspect of bias analysis using word embeddings.
+- The notebook `follow-along.ipynb` contains several sections, each focusing on a different aspect of bias analysis using word embeddings.
 - Each section includes code cells for data processing, bias calculation, visualization, and interpretation.
 - Expect to see visualizations such as bar plots, heatmaps, and line plots representing bias trends over time or across different categories.
 - Interpretation and insights are provided along with each visualization or analysis result.
-- You can also take a look at `vector-creation.ipynb` for a step-by-step guide on how to create the vector models themselves. We have precomputed all of the vectors you need and uploaded them to the `models` subfolder, but this additional notebook is provided for your reference.
-- `moviedata.csv.zip` is the cleaned data file containing all of the movie dialogue from the Cornell dataset, if you would like to follow along the `vector-creation.ipynb` tutorial.
+- You can also take a look at `vector-creation.ipynb` for a step-by-step guide on how to create the vector models themselves. We have precomputed all of the vectors you need and uploaded them to the `models` subfolder to save time, but this additional notebook is provided for your reference and understanding of how to create these vectors using a corpus.
+- `moviedata.csv.zip` is the cleaned data file containing all of the movie dialogue from the Cornell dataset, if you would like to follow along the `vector-creation.ipynb` tutorial and create the vector models yourself.
