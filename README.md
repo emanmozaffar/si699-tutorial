@@ -1,6 +1,6 @@
 # Bias Analysis
 
-This Jupyter Notebook contains analyses of biases present in word embeddings, focusing on different dimensions such as occupation, ethnicity, gender, and stereotypes. 
+This Jupyter Notebook contains analyses of biases present in word embeddings, focusing on different dimensions such as occupation, ethnicity, gender, and stereotypes. This tutorial is based on the paper "Word embeddings quantify 100 years of gender and ethnic stereotypes," by Nikhil Garga, Londa Schiebingerb, Dan Jurafskyc, and James Zoue, but uses a different dataset that is pulled from Cornell University's movie dialog corpus.
 
 ## How to Use:
 
@@ -14,7 +14,7 @@ This Jupyter Notebook contains analyses of biases present in word embeddings, fo
 2. **Clone Repository**:
     - Clone this repository to your local machine using Git:
       ```
-      git clone <repository_url>
+      git clone <https://github.com/emanmozaffar/si699-tutorial>
       ```
 
 3. **Open Notebook**:
@@ -32,9 +32,7 @@ This Jupyter Notebook contains analyses of biases present in word embeddings, fo
 - Expect to see visualizations such as bar plots, heatmaps, and line plots representing bias trends over time or across different categories.
 - Interpretation and insights are provided along with each visualization or analysis result.
 
-Enjoy exploring the biases present in word embeddings and understanding their implications!
-
-# Analysis Section Name
+# Analysis Section
 
 This section of code performs a specific analysis task related to bias analysis using word embeddings. It focuses on [brief description of the analysis].
 
@@ -63,8 +61,5 @@ This section of code performs a specific analysis task related to bias analysis 
 
 ## What to Expect:
 
-- The code snippet performs [description of the analysis task].
 - Expect to see visualizations such as bar plots, heatmaps, line plots, etc., representing bias trends or analysis results.
 - Interpretation and insights may be provided along with the output.
-
-Enjoy analyzing bias trends and gaining insights from the provided code snippet!
