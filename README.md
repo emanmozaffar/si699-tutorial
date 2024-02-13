@@ -14,7 +14,7 @@ This Jupyter Notebook contains analyses of biases present in word embeddings, fo
 2. **Clone Repository**:
     - Clone this repository to your local machine using Git:
       ```
-      git clone <https://github.com/emanmozaffar/si699-tutorial>
+      git clone https://github.com/emanmozaffar/si699-tutorial
       ```
 
 3. **Open Notebook**:
