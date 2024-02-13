@@ -32,9 +32,9 @@ This Jupyter Notebook contains analyses of biases present in word embeddings, fo
 - Expect to see visualizations such as bar plots, heatmaps, and line plots representing bias trends over time or across different categories.
 - Interpretation and insights are provided along with each visualization or analysis result.
 
-# Analysis Section
+# Analysis
 
-This section of code performs a specific analysis task related to bias analysis using word embeddings. It focuses on [brief description of the analysis].
+This section of code performs a specific analysis task related to bias analysis using word embeddings.
 
 ## How to Use:
 
