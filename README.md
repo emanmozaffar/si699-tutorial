@@ -1,4 +1,4 @@
-# Bias Analysis
+# SI699 Tutorial: Bias Analysis Using Word Embeddings
 
 This Jupyter Notebook contains analyses of biases present in word embeddings, focusing on different dimensions such as occupation, ethnicity, gender, and stereotypes. This tutorial is based on the paper "Word embeddings quantify 100 years of gender and ethnic stereotypes," by Nikhil Garga, Londa Schiebingerb, Dan Jurafskyc, and James Zoue, but uses a different dataset that is pulled from Cornell University's movie dialog corpus.
 
