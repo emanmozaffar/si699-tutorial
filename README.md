@@ -27,39 +27,9 @@ This Jupyter Notebook contains analyses of biases present in word embeddings, fo
 
 ## What to Expect:
 
-- The notebook contains several sections, each focusing on a different aspect of bias analysis using word embeddings.
+- The notebook `bias-analysis.ipynb` contains several sections, each focusing on a different aspect of bias analysis using word embeddings.
 - Each section includes code cells for data processing, bias calculation, visualization, and interpretation.
 - Expect to see visualizations such as bar plots, heatmaps, and line plots representing bias trends over time or across different categories.
 - Interpretation and insights are provided along with each visualization or analysis result.
-
-# Analysis
-
-This section of code performs a specific analysis task related to bias analysis using word embeddings.
-
-## How to Use:
-
-1. **Installation**:
-    - Ensure you have Python installed on your system.
-    - Install the required libraries by running:
-      ```
-      pip install -r requirements.txt
-      ```
-
-2. **Clone Repository**:
-    - Clone the repository containing the code snippets to your local machine using Git:
-      ```
-      git clone <repository_url>
-      ```
-
-3. **Run the Code**:
-    - Navigate to the directory containing the code snippet file.
-    - Execute the code in a Python environment (e.g., Jupyter Notebook, Python script).
-
-4. **Expected Output**:
-    - The code generates visualizations or outputs relevant analysis results.
-    - Interpretation and insights may be provided along with the output.
-
-## What to Expect:
-
-- Expect to see visualizations such as bar plots, heatmaps, line plots, etc., representing bias trends or analysis results.
-- Interpretation and insights may be provided along with the output.
+- You can also take a look at `vector-creation.ipynb` for a step-by-step guide on how to create the vector models themselves. We have precomputed all of the vectors you need and uploaded them to the `models` subfolder, but this additional notebook is provided for your reference.
+- `moviedata.csv.zip` is the cleaned data file containing all of the movie dialogue from the Cornell dataset, if you would like to follow along the `vector-creation.ipynb` tutorial.
